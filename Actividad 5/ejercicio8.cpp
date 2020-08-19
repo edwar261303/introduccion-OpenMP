@@ -14,4 +14,5 @@ int main()
 	cout << "Fin del pragrama paralelo" << endl;
 	getchar();
 	return 0;
+	//modificacion 2
 }
